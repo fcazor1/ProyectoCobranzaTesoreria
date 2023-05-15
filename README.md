@@ -1,2 +1,2 @@
 # ProyectoCobranzaTesoreria
-Proyecto de desarrollo para Megasalud
+Proyecto de desarrollo para Xxxxxxxxx
